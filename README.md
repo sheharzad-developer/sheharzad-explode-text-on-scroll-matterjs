@@ -72,3 +72,4 @@ Built to demonstrate the fusion of physics and text animation for an interactive
 ## 📄 License
 
 MIT © Sheharzad Salahuddin
+# sheharzad-explode-text-on-scroll-matterjs
