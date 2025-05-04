@@ -2,12 +2,6 @@
 
 A visually captivating scroll-triggered animation using **GSAP**, **Matter.js**, **SplitType**, and **Lenis**. Specific words explode into animated characters when you scroll through a sticky section — combining performance, interaction, and creativity.
 
-## 📸 Preview
-
-> Add a screenshot or screen recording GIF here
-
----
-
 ## 🛠️ Technologies Used
 
 * **HTML5/CSS3** – Semantic layout and responsive styles
