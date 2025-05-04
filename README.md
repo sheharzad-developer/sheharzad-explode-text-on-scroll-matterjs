@@ -29,7 +29,7 @@ A visually captivating scroll-triggered animation using **GSAP**, **Matter.js**,
 
    ```bash
    git clone https://github.com/sheharzad-developer/sheharzad-explode-text-on-scroll-matterjs.git
-   cd exploding-text-scroll
+   cd sheharzad-explode-text-on-scroll-matterjs
    ```
 
 2. Open `index.html` in your browser (no build steps needed)
